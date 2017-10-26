@@ -34,6 +34,7 @@ public class Test1 {
 	void testCase4()
 	{
 		System.out.println("test case 4");
+		System.out.println("testing");
 	}
 	@DataProvider
 	public Object[][] data()
